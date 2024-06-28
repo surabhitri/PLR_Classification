@@ -1,7 +1,7 @@
 .env
 demo.ipynb
-bin
-lib
-include
-share 
+bin/
+lib/
+include/
+share/
 pyvenv.cfg
