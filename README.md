@@ -39,7 +39,8 @@ Install the required dependencies:
 pip install -r requirements.txt
 ```
 
-Run our scripts:
+Run our scripts:<br>
+
 _Note_: Before running the scripts in the src/ folder, please set up the environment with the help of the environment_setup_testing.ipynb notebook.
 
 ```bash
