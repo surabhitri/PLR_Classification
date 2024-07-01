@@ -2,7 +2,7 @@
 
 ## Overview
 
-This project focuses on classifying Private Letter Rulings (PLRs) into Adverse and Non-Adverse categories using prompt engineering and fine-tuning of large language models (LLMs).
+This project leverages prompt engineering and fine-tuning of large language models (LLMs) to classify Private Letter Rulings (PLRs) into Adverse and Non-Adverse rulings. It is designed to aid legal professionals in quickly and accurately categorizing PLRs.
 
 ## Repository Structure
 
@@ -54,7 +54,7 @@ python src/infer.py --model_dir models/ --input_file data/new_plrs.csv --output_
 
 ## License
 
-This project is licensed under the MIT License.
+This project is not licensed. All rights are reserved by the original authors. For permissions or licensing inquiries, please contact the Duke Law Data Lab.
 
 ## Contact
 
