@@ -69,4 +69,4 @@ This project is not licensed. All rights are reserved by the original authors. F
 
 ## Contact
 
-For questions or support, please contact the Duke Law Data Lab.
+For questions or support, please contact the Duke Law Data Lab at datalab@law.duke.edu or surabhi.trivedi@law.duke.edu.
