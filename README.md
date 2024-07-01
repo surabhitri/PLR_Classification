@@ -30,7 +30,7 @@ git clone https://gitlab.oit.duke.edu/duke-law-datalab/plr_chatgpt.git
 Navigate to the project directory:
 
 ```bash
-cd plr_chatgpt
+cd plr_classification
 ```
 
 Install the required dependencies:
