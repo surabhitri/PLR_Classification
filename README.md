@@ -32,25 +32,13 @@ pip install -r requirements.txt
 
 ## Usage
 
-### Data Preparation
+### Model Performance
 
-Place your PLR data files in the `data/` directory.
+The final model used is base GPT-3.5-Turbo-1106 with zero shot prompting and has achieved the following performance metrics:
 
-### Training the Model
-
-To train the model, run the following command:
-
-```bash
-python src/train_model.py --data_dir data/ --output_dir models/
-```
-
-### Inference
-
-To classify new PLRs, use the inference script:
-
-```bash
-python src/infer.py --model_dir models/ --input_file data/new_plrs.csv --output_file results/classified_plrs.csv
-```
+Accuracy: 90.64%
+Recall: 87.50%
+Precision: 60.00%
 
 ## License
 
