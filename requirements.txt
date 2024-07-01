@@ -2,6 +2,5 @@ openai
 python-dotenv
 openpyxl
 pandas
-openpyxl
 PyMuPDF 
 tiktoken
