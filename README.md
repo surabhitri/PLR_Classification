@@ -36,9 +36,12 @@ pip install -r requirements.txt
 
 The final model used is base GPT-3.5-Turbo-1106 with zero shot prompting and has achieved the following performance metrics:
 
-Accuracy: 90.64%
-Recall: 87.50%
-Precision: 60.00%
+
+| header    | header  |
+| --------- | ------- |
+| Accuracy  | 90.64%  |
+| Recall    | 87.50%  | 
+| Precision | 60.00%  |
 
 ## License
 
