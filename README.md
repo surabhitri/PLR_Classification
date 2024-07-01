@@ -47,7 +47,7 @@ _Note_: Before running the scripts in the src/ folder, please set up the environ
 cd src
 ```
 
-1. Use prod_by_year.ipynb to generate classifications of PLRs by year or a list of years.
+1. Use prod_by_year.ipynb to generate classifications of PLRs by year or a list of years. You can define your folder path to the PLRs you need classified within the notebook under the **Define folder paths** header.
 2. Fine_tuning.ipynb can be used to prepare the training dataset for fine-tuning the model and evaluate model performance.
 
 ## Usage
