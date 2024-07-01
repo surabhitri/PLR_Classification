@@ -11,7 +11,7 @@ This project leverages prompt engineering and fine-tuning of large language mode
 - **`environment_setup_testing.ipynb`**: This notebook will help you set up the environment, install the required dependencies, and test the environment.
 - **`requirements.txt`**: List of dependencies required to run the project.
 
-_Note_: All notebooks have a summary at the top outlining what the notebook achieves and the purpose it serves.
+_Note_: All notebooks have a summary at the top outlining what the notebook achieves and the purpose it serves.<br>
 _Note_: All the PLRs have been scraped from the IRS and can be found in `data/raw/files_definite_plr`.
 
 ## Before you get started
